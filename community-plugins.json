@@ -19253,7 +19253,7 @@
     "id": "expandomatic",
     "name": "Expandomatic",
     "author": "Onsi Fakhouri",
-    "description": "Expand selection outward through word, sentence, paragraph, section, document — like VSCode's expand selection.",
+    "description": "Expand selection outward: word → sentence → paragraph → section → document. Handles tables, code blocks, and equations.",
     "repo": "onsi/expandomatic"
   }
 ]
